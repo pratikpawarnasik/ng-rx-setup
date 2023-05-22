@@ -6,8 +6,6 @@ import { Observable, of } from 'rxjs';
   selector: 'app-root',
   template: `
   <posts></posts>
-    <h2>Books</h2>
-   
   `
 })
 
